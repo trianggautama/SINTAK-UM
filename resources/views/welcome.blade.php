@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Perpustakaan</title>
+  <title>SINTAK-UM</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -38,12 +38,12 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="/"><img src="{{asset('pemko.png')}}" alt="" width="35px"><span class="mt-1">&nbsp; SI-TAHU</span></a></h1>
+        <h1 class="text-light"><a href="/"><img src="{{asset('pemko.png')}}" alt="" width="35px"><span class="mt-1">&nbsp; SINTAK-UMs</span></a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="active " href="index.html">Beranda</a></li>
+          <li><a class="active " href="/">Beranda</a></li>
           <li><a href="{{Route('auth.login')}}">Login</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -59,7 +59,7 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h4 class="animate__animated animate__fadeInUp text-white">Si-Tahu (Sistem Informasi Perpustakan Hukum)</h4>
+          <h4 class="animate__animated animate__fadeInUp text-white">SINTAK-UM</h4>
           <p class="animate__animated animate__fadeInUp">Perpustakaan Hukum adalah aplikasi yang merupakan bagian dari Jaringan Dokumentasi dan Informasi Hukum Kota Banjarmasin yang bisa diakses masyarakat, mahasiwa dan aparatur pemerintahan untuk mengetahui daftar koleksi perpustakaan hukum JDIH Kota Banjarmasin. </p>
         </div>
       </div>
@@ -67,7 +67,7 @@
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h4 class="animate__animated animate__fadeInUp text-white">Si-Tahu (Sistem Informasi Perpustakan Hukum)</h4>
+          <h4 class="animate__animated animate__fadeInUp text-white">SINTAK-UM</h4>
           <p class="animate__animated animate__fadeInUp">Perpustakaan Hukum adalah aplikasi yang merupakan bagian dari Jaringan Dokumentasi dan Informasi Hukum Kota Banjarmasin yang bisa diakses masyarakat, mahasiwa dan aparatur pemerintahan untuk mengetahui daftar koleksi perpustakaan hukum JDIH Kota Banjarmasin. </p>
         </div>
       </div>
@@ -75,7 +75,7 @@
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h4 class="animate__animated animate__fadeInUp text-white">Si-Tahu (Sistem Informasi Perpustakan Hukum)</h4>
+          <h4 class="animate__animated animate__fadeInUp text-white">SINTAK-UM</h4>
           <p class="animate__animated animate__fadeInUp">Perpustakaan Hukum adalah aplikasi yang merupakan bagian dari Jaringan Dokumentasi dan Informasi Hukum Kota Banjarmasin yang bisa diakses masyarakat, mahasiwa dan aparatur pemerintahan untuk mengetahui daftar koleksi perpustakaan hukum JDIH Kota Banjarmasin.</p>
         </div>
       </div>

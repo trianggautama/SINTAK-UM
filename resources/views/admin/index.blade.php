@@ -28,7 +28,7 @@
                     </div>
                     <div class="col-8 text-right">
                         <span> Jenis Dokumen </span>
-                        <h2 class="font-bold">12</h2>
+                        <h2 class="font-bold">{{$tipe}}</h2>
                     </div>
                 </div>
             </div>
@@ -41,7 +41,7 @@
                     </div>
                     <div class="col-8 text-right">
                         <span> Macam Buku </span>
-                        <h2 class="font-bold">26</h2>
+                        <h2 class="font-bold">{{$buku}}</h2>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="col-8 text-right">
                         <span> Peminjaman </span>
-                        <h2 class="font-bold">260</h2>
+                        <h2 class="font-bold">{{$peminjaman}}</h2>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
             <div class="card">
                 <div class="card-body">
                     <h2>Selamat Datang Admin ( {{Auth::user()->nama}} )</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus reiciendis laudantium earum magnam illo at aut vel esse, recusandae veritatis doloremque consequatur rem iste quo eligendi, eos distinctio fuga placeat.</p>
+                    <p>Perpustakaan Hukum adalah aplikasi yang merupakan bagian dari Jaringan Dokumentasi dan Informasi Hukum Kota Banjarmasin yang bisa diakses masyarakat, mahasiwa dan aparatur pemerintahan untuk mengetahui daftar koleksi perpustakaan hukum JDIH Kota Banjarmasin.</p>
                 </div>
             </div>
         </div>
